@@ -77,9 +77,8 @@ html{
 /*End footer*/
 
 /*Main*/
-
   main .strip.one{
-    background-image:url("https://www.thecar.co.il/wp-content/uploads/2015/02/Audi-R8-2015-001.jpg");
+    background-image:url("./image/3\ מתוקן.jpg");
     background-repeat:no-repeat;
     height: 49em;
     background-size: cover;
@@ -90,7 +89,7 @@ html{
 
 main .strip.one h1{
     position: absolute;
-    top: 20%;
+    top: 5%;
     left: 40%;
     right: 40%;
     font-size: 4em;
@@ -99,7 +98,6 @@ main .strip.one h1{
 }
 
 .strip.one>ul.strip.footer{
-    display: inline-block;
     list-style-type: none;
     text-align: center;
     position:absolute;
@@ -111,7 +109,7 @@ main .strip.one h1{
 }
 
   main .strip.two{
-    background-image:url("https://www.diamondcar.co.il/wp-content/grand-media/image/mazerati.jpg");
+    background-image:url("./image/1\ מתוקן.jpg");
     background-repeat:no-repeat;
     height: 49em;
     background-size: cover;
@@ -130,7 +128,6 @@ main .strip.two h1{
 }
 
 .strip.two>ul.strip.footer{
-    display: inline-block;
     list-style-type: none;
     text-align: center;
     position:absolute;
@@ -142,7 +139,7 @@ main .strip.two h1{
 }
 
 main .strip.three{
-    background-image:url("https://volta.solar/wp-content/uploads/2017/12/10.jpg");
+    background-image:url("./image/2\ מתוקן.jpg");
     background-repeat:no-repeat;
     height: 49em;
     background-size: cover;
@@ -152,7 +149,7 @@ main .strip.three{
 
 main .strip.three h1{
     position: absolute;
-    top: 23%;
+    top: 5%;
     left: 35%;
     right: 35%;
     font-size: 4em;
@@ -161,19 +158,18 @@ main .strip.three h1{
 }
 
 .strip.three>ul.strip.footer{
-    display: inline-block;
     list-style-type: none;
     text-align: center;
     position:absolute;
     bottom: 5%;
-    right: 16%;
-    left:16%;
+    right: 15%;
+    left:15%;
     color: white;
 
 }
 
 main .strip.four{
-    background-image:url("https://www.plugged-in.co.il/wp-content/uploads/2018/05/Depositphotos_28331411_l-2015s.jpg");
+    background-image:url("./image/תקין\ חניה.jpg");
     background-repeat:no-repeat;
     height: 49em;
     background-size: cover;
@@ -193,7 +189,6 @@ main .strip.four h1{
 }
 
  .strip.four>ul.strip.footer{
-     display: inline-block;
      list-style-type: none;
      text-align: center;
      position:absolute;
